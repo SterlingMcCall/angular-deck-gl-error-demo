@@ -1,0 +1,8 @@
+/* Add application styles & imports to this file! */
+agm-map {
+  height: 100%;
+}
+
+.map-wrapper {
+  height: 90vh;
+}
